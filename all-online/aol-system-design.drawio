@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T19:34:55.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4f5v7zH4NCxFXarMywW0" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-21T03:46:37.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MLXSbQVt65y8XIx9Bf8F" version="24.4.4" type="github" pages="2">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1803" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="h29dOdCf91kiFEEPr48u-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="h29dOdCf91kiFEEPr48u-78" target="h29dOdCf91kiFEEPr48u-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h29dOdCf91kiFEEPr48u-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Business Need&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h29dOdCf91kiFEEPr48u-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Business Need&lt;/h1&gt;&lt;p&gt;- Provide online channel order come from Web/Mobile Application.&lt;/p&gt;&lt;p&gt;- Online channel in comming high order transaction, enhance system from order 10K/day&amp;nbsp; order 100K/day.&lt;/p&gt;&lt;p&gt;- Provide flexible system customize and/or add on feature top up.&lt;/p&gt;&lt;p&gt;-&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="730" height="440" as="geometry" />
         </mxCell>
         <mxCell id="h29dOdCf91kiFEEPr48u-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AOL Components&lt;/h1&gt;&lt;p&gt;- Order&lt;/p&gt;&lt;p&gt;- Product&lt;/p&gt;&lt;p&gt;- Invoice&lt;/p&gt;&lt;p&gt;- Warehouse&lt;/p&gt;&lt;p&gt;- Routing&lt;/p&gt;&lt;p&gt;- Delivery Note&lt;/p&gt;&lt;p&gt;- Notification&lt;/p&gt;&lt;p&gt;- Member&lt;/p&gt;&lt;p&gt;- POS&lt;/p&gt;&lt;p&gt;- Web/Mobile Application&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
